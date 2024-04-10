@@ -121,6 +121,10 @@
     cursor: pointer;
 }
 
+.loginbtn:hover{
+    background-color: #47CDAC;
+}
+
 .reg{
     margin-top: 30px;
 }
